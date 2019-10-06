@@ -11,8 +11,8 @@ Web安全攻防渗透测试实战指南
 
 
 第一章渗透测试之信息搜集
-![Image](https://github.com/smallpo1nt/-
--/blob/master/Web%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97/%E5%B8%B8%E8%A7%81%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7.png)
+![Image](https://github.com/smallpo1nt/--/blob/master/Web%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97/%E5%B8%B8%E8%A7%81%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7.png)
+
 第三章常见渗透测试工具
 ![Image](https://github.com/smallpo1nt/--/blob/master/Web安全攻防渗透测试实战指南/常见渗透测试工具.png)
 第四章Web安全原理剖析
